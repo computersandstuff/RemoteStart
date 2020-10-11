@@ -1,0 +1,35 @@
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbprojAssemblyReference.cache
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New_TCP_Server.Form1.resources
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New_TCP_Server.Resources.resources
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbproj.GenerateResource.cache
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbproj.CoreCompileInputs.cache
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.exe.config
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.exe
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.pdb
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.xml
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.exe
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.xml
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.pdb
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.exe.config
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.exe
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.pdb
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\bin\Debug\New TCP Server.xml
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbprojAssemblyReference.cache
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New_TCP_Server.Form1.resources
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New_TCP_Server.Resources.resources
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbproj.GenerateResource.cache
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbproj.CoreCompileInputs.cache
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.exe
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.xml
+E:\ArchivalApp\TCP Server\New TCP Server\New TCP Server\obj\Debug\New TCP Server.pdb
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\bin\Debug\New TCP Server.exe.config
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\bin\Debug\New TCP Server.exe
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\bin\Debug\New TCP Server.pdb
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\bin\Debug\New TCP Server.xml
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New_TCP_Server.Form1.resources
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New_TCP_Server.Resources.resources
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbproj.GenerateResource.cache
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New TCP Server.vbproj.CoreCompileInputs.cache
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New TCP Server.exe
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New TCP Server.xml
+E:\ArchivalApp\RemoteStart\New TCP Server\New TCP Server\obj\Debug\New TCP Server.pdb

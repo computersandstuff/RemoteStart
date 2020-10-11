@@ -1,0 +1,49 @@
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbprojAssemblyReference.cache
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Form1.resources
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Resources.resources
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.GenerateResource.cache
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.CoreCompileInputs.cache
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe.config
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.pdb
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.xml
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.exe
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.xml
+C:\Users\Admin Luke\Documents\Visual Studio 2019\Projects\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.pdb
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe.config
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.pdb
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\bin\Debug\New TCP Client.xml
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbprojAssemblyReference.cache
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Form1.resources
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Resources.resources
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.GenerateResource.cache
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.CoreCompileInputs.cache
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.exe
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.xml
+E:\ArchivalApp\TCP Client\New TCP Client\New TCP Client\obj\Debug\New TCP Client.pdb
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe.config
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.pdb
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.xml
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbprojAssemblyReference.cache
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Form1.resources
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Resources.resources
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.GenerateResource.cache
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.CoreCompileInputs.cache
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.exe
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.xml
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.pdb
+D:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.About.resources
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe.config
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.exe
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.pdb
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\bin\Debug\New TCP Client.xml
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.About.resources
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Form1.resources
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New_TCP_Client.Resources.resources
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.GenerateResource.cache
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.vbproj.CoreCompileInputs.cache
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.exe
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.xml
+E:\ArchivalApp\RemoteStart\New TCP Client\New TCP Client\obj\Debug\New TCP Client.pdb
